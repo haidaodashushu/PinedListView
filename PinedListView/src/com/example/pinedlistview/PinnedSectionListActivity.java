@@ -40,7 +40,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.pinedlistview.R;
-
+//test
 public class PinnedSectionListActivity extends ListActivity implements OnClickListener {
 
     static class SimpleAdapter extends ArrayAdapter<Item> implements PinnedSectionListAdapter {
